@@ -1,0 +1,16 @@
+C:\Users\jojo_\project-one\obj\Debug\net5.0\project-one.csproj.AssemblyReference.cache
+C:\Users\jojo_\project-one\obj\Debug\net5.0\project-one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jojo_\project-one\obj\Debug\net5.0\project-one.AssemblyInfoInputs.cache
+C:\Users\jojo_\project-one\obj\Debug\net5.0\project-one.AssemblyInfo.cs
+C:\Users\jojo_\project-one\obj\Debug\net5.0\project-one.csproj.CoreCompileInputs.cache
+C:\Users\jojo_\project-one\bin\Debug\net5.0\project-one.exe
+C:\Users\jojo_\project-one\bin\Debug\net5.0\project-one.deps.json
+C:\Users\jojo_\project-one\bin\Debug\net5.0\project-one.runtimeconfig.json
+C:\Users\jojo_\project-one\bin\Debug\net5.0\project-one.runtimeconfig.dev.json
+C:\Users\jojo_\project-one\bin\Debug\net5.0\project-one.dll
+C:\Users\jojo_\project-one\bin\Debug\net5.0\ref\project-one.dll
+C:\Users\jojo_\project-one\bin\Debug\net5.0\project-one.pdb
+C:\Users\jojo_\project-one\obj\Debug\net5.0\project-one.dll
+C:\Users\jojo_\project-one\obj\Debug\net5.0\ref\project-one.dll
+C:\Users\jojo_\project-one\obj\Debug\net5.0\project-one.pdb
+C:\Users\jojo_\project-one\obj\Debug\net5.0\project-one.genruntimeconfig.cache
